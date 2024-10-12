@@ -26,7 +26,7 @@ user-details
 classModel <br>
 traineeModel
 # Admin Credentials
-Email: admin@gmail.com <br>
+Email: ramjan@gmail.com <br>
 password: 12345
 # Instructions to Run Locally
 ## Frontend
